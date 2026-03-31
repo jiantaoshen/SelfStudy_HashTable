@@ -128,7 +128,6 @@ int main()
 
     int* result = malloc(sizeof(int) * 2);
     
-
     result = twoSum(nums, numsSize, target, &returnSize);
 
     if (result != NULL){
