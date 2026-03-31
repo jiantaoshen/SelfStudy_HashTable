@@ -39,7 +39,9 @@ When data is updated and accessed often
 
 ### When NOT to Use Dictionary
 When order matters → use SortedDictionary or List
+
 When duplicate keys are needed → use Lookup or List
+
 When dataset is very small → Dictionary may be unnecessary
 
 
